@@ -59,7 +59,7 @@ Next, go to your view where you want to use the template, in this example I'm us
 
 Note that the module is specified in the *Alloy* tag -- this means it will be used across the whole view. You can otherwise specify the module attribute in the *template* tag itself.
 
-Build the app and your label (Label3) will be included in the template you specified!
+Build the app and the label (Hello World!) will be included in the template specified automatically!
 
 (You can test the exact same code using *Require* instead of *Template* and note that it doesn't work -- you have to explicitly iterate and add the child views yourself in the template).
 
