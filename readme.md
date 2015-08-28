@@ -52,7 +52,7 @@ Next, go to your view where you want to use the template, in this example I'm us
 ```
 <Alloy module="crux.templates">
     <Template src="template1" >
-        <Label color="black">Label3</Label>
+        <Label color="black">Hello World!</Label>
     </Template>
 </Alloy>
 ```
